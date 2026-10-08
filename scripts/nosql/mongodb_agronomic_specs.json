@@ -1,0 +1,16 @@
+{
+  "_id": "taxon_5",
+  "nome_cientifico": "Triticum aestivum",
+  "rank": "ESPECIE",
+  "atributos_agronomicos": {
+    "ciclo_dias": 120,
+    "resistencia_ferrugem": "alta",
+    "tolerancia_seca": "media",
+    "rendimento_ton_ha": 4.5,
+    "proteina_percentual": 13.2
+  },
+  "origem_geografica": {
+    "centro_diversidade": "Crescente Fértil",
+    "paises_nativos": ["Iraque", "Irã", "Turquia"]
+  }
+}
